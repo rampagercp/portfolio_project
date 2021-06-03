@@ -7,7 +7,7 @@
 import app from './app';
 import createError from 'http-errors'
 import debug from 'debug';
-debug('assignment-portfolio-definitive:server');
+debug('portfolio_project:server');
 import http from 'http';
 
 /**
