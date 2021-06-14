@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-import app from './app';
+import app from './Server/Config/app';
 import createError from 'http-errors'
 import debug from 'debug';
 debug('portfolio_project:server');
